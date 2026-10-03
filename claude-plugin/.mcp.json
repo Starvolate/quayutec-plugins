@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quayutec": {
+      "type": "http",
+      "url": "https://app.quayutec.com/api/mcp"
+    }
+  }
+}

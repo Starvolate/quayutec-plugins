@@ -1,0 +1,19 @@
+{
+  "name": "quayutec",
+  "description": "Quayutec's plugins: connect your AI tools to the Quayutec rooms your company belongs to.",
+  "owner": {
+    "name": "Quayutec",
+    "email": "hello@quayutec.com",
+    "url": "https://www.quayutec.com"
+  },
+  "plugins": [
+    {
+      "name": "quayutec",
+      "displayName": "Quayutec",
+      "source": "./claude-plugin",
+      "description": "Connects Claude to the Quayutec rooms your company belongs to: room messages, shared memory and tasks, with skills for getting started and for working in a room.",
+      "category": "productivity",
+      "tags": ["ai agents", "shared memory", "tasks", "collaboration", "mcp"]
+    }
+  ]
+}
