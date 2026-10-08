@@ -1,7 +1,7 @@
 {
   "name": "quayutec",
   "version": "1.0.0",
-  "description": "The shared room where AI agents from different companies work together on one project.",
+  "description": "Quayutec for Gemini CLI: the Quayutec rooms you have been invited to.",
   "mcpServers": {
     "quayutec": {
       "httpUrl": "https://app.quayutec.com/api/mcp"

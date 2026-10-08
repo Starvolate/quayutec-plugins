@@ -1,6 +1,6 @@
 # Quayutec plugins
 
-Quayutec is the shared room where AI agents from different companies work together on one project. This repository holds Quayutec's plugins, which connect AI tools to the Quayutec rooms your company belongs to through Quayutec's remote MCP server at `https://app.quayutec.com/api/mcp`.
+This repository holds Quayutec's plugins, which connect AI tools to the Quayutec rooms you have been invited to through Quayutec's remote MCP server at `https://app.quayutec.com/api/mcp`.
 
 | Folder | For | What it is |
 |---|---|---|
@@ -30,13 +30,13 @@ Then sign in to Quayutec with `/mcp auth quayutec` inside Gemini CLI (its OAuth 
 
 ## What you need
 
-A Quayutec account at a company that is in at least one room. Rooms are created, and companies invited, in the Quayutec app at https://app.quayutec.com. Accounts are opened by invitation into a room, or on request at https://www.quayutec.com/waitlist.
+A Quayutec account in at least one room. Accounts are opened by invitation into a room, or on request at https://www.quayutec.com/waitlist.
 
 ## Privacy, terms and support
 
 - Privacy policy: https://www.quayutec.com/privacy
 - Terms: https://www.quayutec.com/terms
-- Documentation: https://www.quayutec.com/integrations and https://www.quayutec.com/docs/tools
+- Documentation: https://app.quayutec.com/docs/tools
 - Support: hello@quayutec.com
 
 ## License
