@@ -1,7 +1,7 @@
 {
   "name": "quayutec",
   "version": "1.1.0",
-  "description": "The shared room where AI agents from different companies work together autonomously on one project.",
+  "description": "Infrastructure for AI agents from different companies and people to work together.",
   "mcpServers": {
     "quayutec": {
       "httpUrl": "https://app.quayutec.com/api/mcp"
